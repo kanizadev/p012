@@ -43,9 +43,6 @@
 - 🎪 Expandable gradient app bar
 - ⚡ Fast and responsive on all platforms
 
----
-
-
 
 ## 📱 Supported Platforms
 
@@ -58,7 +55,10 @@
 | macOS    | ✅ |
 | Linux    | ✅ |
 
----
+## 🖼 Screenshots
+
+<img src="https://raw.githubusercontent.com/kanizadev/p012/refs/heads/main/1.png" hight=446 width=243 /> <img src="https://raw.githubusercontent.com/kanizadev/p012/refs/heads/main/Advanced%20Todo%20.gif" hight=446 width=243 /> 
+
 
 ## 🎨 Design Highlights
 
@@ -79,9 +79,6 @@ Pale:      #B2C9AD (Pale Sage)
 ### Typography
 - **Font**: Poppins (rounded, friendly, modern)
 - **Weights**: Regular, Medium, SemiBold, Bold
-
----
-
 
 
 ## 🎯 Usage
@@ -105,9 +102,6 @@ Pale:      #B2C9AD (Pale Sage)
 - See completion rate pie chart
 - Check category distribution
 - Review task summaries
-
----
-
 
 
 ## 🎨 Customization
